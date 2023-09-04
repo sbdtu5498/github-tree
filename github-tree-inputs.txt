@@ -1,0 +1,6 @@
+{
+  "owner": "",
+  "repo": "",
+  "path": "",
+  "maxDepth": 1
+}
